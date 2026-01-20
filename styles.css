@@ -159,7 +159,7 @@ header h1 {
 }
 
 .results-header {
-  background white;
+  background: white;
   padding: 1.5rem;
   border-radius: 10px;
   margin-bottom: 2rem;
